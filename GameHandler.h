@@ -25,8 +25,6 @@ const char* Words[] = {"Hello", "Friend", "Nice"}; // All the Words in the Game
 
 bool InGame = false;
 
-char HangmanArray[7] = {'O', '|', '/', '\\', '|', '/', '\\'};
-
 enum InstructionInputs{
 
   YES = 'Y',
