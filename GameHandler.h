@@ -91,7 +91,7 @@ void Instructions(){
   ClrScreen();
 
   printf("\nHangman is a game programmed by ThatCodedDude!!");
-  printf("\n\nThe objective is simple, try to guess the word within the blank spaces, if you get too many wrong, the stickman will be drawn more and more, until, it's fully drawn, towhich you will lose after too many wrong attempts");
+  printf("\n\nThe objective is simple, try to guess the word within the blank spaces, if you get too many wrong, the stickman will be drawn more and more, until, it's fully drawn, to which you will lose after too many wrong attempts");
 
   printf("\n\nDo you understand??");
 
