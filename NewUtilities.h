@@ -13,9 +13,7 @@ void wait(int Secs){
 
 
 void ClrScreen(){
-
-
-
+  
   system("cls");
 
 }
